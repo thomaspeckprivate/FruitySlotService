@@ -1,0 +1,36 @@
+{
+  "GameDefinition": {
+    "Symbols": [
+      {
+        "name": "Blank",
+        "weight": 50,
+        "payout": 0
+      },
+      {
+        "name": "Cherry",
+        "weight": 60,
+        "payout": 0.5
+      },
+      {
+        "name": "Lemon",
+        "weight": 40,
+        "payout": 1
+      },
+      {
+        "name": "Bell",
+        "weight": 20,
+        "payout": 2
+      },
+      {
+        "name": "Diamond",
+        "weight": 10,
+        "payout": 5
+      },
+      {
+        "name": "Seven",
+        "weight": 1,
+        "payout": 15
+      }
+    ]
+  }
+}

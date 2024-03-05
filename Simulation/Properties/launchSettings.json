@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "FruitySlot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "NumSpins": "1000000000",
+        "BetAmount": "1",
+        "Threads": "5",
+        "DisplayGamePlay": "false",
+        "DisplaySummary": "true",
+        "DisplayNumSpins": "true"
+      }
+    }
+  }
+}

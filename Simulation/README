@@ -1,0 +1,8 @@
+Simulation can be run with certain environment variables to cater to the PC running the simulation:
+
+NumSpins => Number of spins to run
+BetAmount => How much to bet on each spin
+Threads => How many threads to run simulation on
+DisplayGamePlay => Shows game play, displaying the reel result
+DisplaySummary => At the end of the run, a summary will appear with additional stats
+DisplayNumSpins => During processing, the number of spins spun and remaining will show

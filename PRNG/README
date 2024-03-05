@@ -1,0 +1,2 @@
+PRNG implemented as a linear congruential generator. Found research paper showing the relative efficiency of different paramets.
+https://www.ams.org/journals/mcom/1999-68-225/S0025-5718-99-00996-5/S0025-5718-99-00996-5.pdf
